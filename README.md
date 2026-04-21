@@ -71,5 +71,5 @@ Analyzes how account balance impacts churn probability.
 🌍 Regional Insights: Understand churn trends across different countries
 
 ## 6. Screenshots / Demo
-show what the dashboard looks like -() 
+show what the dashboard looks like -(https://github.com/Ayush-collab69/bank-customer-churn-analysis-powerbi/blob/main/snapshort%20of%20the%20Dashboard.png) 
 
